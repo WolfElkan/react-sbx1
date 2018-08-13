@@ -1,0 +1,22 @@
+{
+  "name": "react-sbx1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfElkan/react-sbx1.git"
+  },
+  "author": "Wolf Elkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WolfElkan/react-sbx1/issues"
+  },
+  "homepage": "https://github.com/WolfElkan/react-sbx1#readme",
+  "dependencies": {
+    "react": "^16.4.2"
+  }
+}
